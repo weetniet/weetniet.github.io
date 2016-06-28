@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+<title>ned 1</title>
+<f4m>http://orbit-iptv.com:2500/live/nisar/nisar/1520.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>ned 2</title>
+<f4m>http://orbit-iptv.com:2500/live/nisar/nisar/1519.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>ned 3</title>
+<f4m>http://orbit-iptv.com:2500/live/nisar/nisar/1518.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>rtl 4</title>
+<f4m>http://orbit-iptv.com:2500/live/nisar/nisar/1517.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>rtl 5</title>
+<f4m>http://orbit-iptv.com:2500/live/nisar/nisar/1516.ts<f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>rtl 7</title>
+<f4m>http://mediaipro.com:8000/live/swiptv46/1y99741/1649.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>rtl 8</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1514.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>veronica</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/2384.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>sbs 6</title>
+<f4m>http://topiptv.net:5890/live/adamo2/adamo2/1707.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>sbs9</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1499.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title> extreme sports</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item
+<item>
+<title>crime</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>discovery</title>
+<f4m>http://151.249.157.226:7781/udp/224.200.246.48:3527</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<title>id</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>Nat Geo Wild</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/3077.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>hbo 1</title>
+<f4m>http://ksportiptv.com:1557/live/26/06/2016/RZuBWZCqJl/1984.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>hbo 2</title>
+<f4m>http://ksportiptv.com:1557/live/26/06/2016/RZuBWZCqJl/1983.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>hbo 3</title>
+<f4m>http://ksportiptv.com:1557/live/26/06/2016/RZuBWZCqJl/1982.ts<f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 1</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1504.ts<f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 2</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1503.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 3</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 4</title>
+<f4m>http://163.172.17.191:5890/live/daniell/daniell/1250.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 5</title>
+<f4m>http://163.172.17.191:5890/live/daniell/daniell/1251.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>fox 6</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/2620.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>film 1 premiere</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1507.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>film 1 action</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1509.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>film 1 spotlight</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/1506.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>film 1 sundance</title>
+<f4m>http://164.132.168.84:2500/live/sony1/sony1/2763.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>kinde/comedy zender</title>
+<f4m>http://www.x-media.tv:58080/live/VILADECAN/RXBbIFZNP5/487.ts</f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>buiten gebruik</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
+<item>
+<title>buiten gebruik</title>
+<f4m></f4m>
+<thumbnail>https://www.mupload.nl/img/sqh9uuoukvhcl.jpg</thumbnail>
+<fanart>https://www.mupload.nl/img/vhateodreq8hj.png</fanart>
+</item>
